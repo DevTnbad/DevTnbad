@@ -1,16 +1,21 @@
-### Hi there 👋
+# :rocket: Ola pessoal !
 
-<!--
-**DevTnbad/DevTnbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Thiago Nunes Barros, iniciei **Desenvolvimento de software** em 2023... [titulo](link)
 
-Here are some ideas to get you started:
+## 🌐:Para me encontrar:
+[![Linkedin](https://img.shields.io/badge/Linkedin-0000dd?style=for-the-badge&logo=linkedin&logoColor=white)]((https://https://www.linkedin.com/in/thiago-nunes-barros/)https://https://www.linkedin.com/in/thiago-nunes-barros/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+email:
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauloricardooalves@gmail.com)
+
+
+
+
+
+# Hard Skils:
+javascript
+node
+sql
+
+
+![Principais Linguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=devtnbad&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagues)
