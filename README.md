@@ -1,4 +1,4 @@
-.tnbad# :rocket: Ola pessoal !
+# :rocket: Ola pessoal !
 
 Me chamo Thiago Nunes Barros, iniciei **Desenvolvimento de software** em 2023... [titulo](link)
 
