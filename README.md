@@ -1,6 +1,6 @@
 # :rocket: Olá Mundo !
 
-Me chamo Thiago Nunes Barros, Iniciei  nesse mundo do **Desenvolvimento de software** no inicio de 2023.
+Me chamo Thiago Nunes Barros, Dei meus primeiros passos no aprendizado nesse mundo do **Desenvolvimento de software** em 2022.
 
 ## 🌐 Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/Linkedin-0000dd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nunes-barros/)
