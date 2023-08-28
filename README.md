@@ -18,4 +18,4 @@ Me chamo Thiago Nunes Barros, mergulhando cada vez mais fundo nesse mundo do **D
 
 ## 🌐 Contatos:
 [![Linkedin](https://img.shields.io/badge/Linkedin-0000dd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nunes-barros/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tnbad@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tnbad@gmail.com)
