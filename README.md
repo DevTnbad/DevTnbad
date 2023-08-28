@@ -1,15 +1,14 @@
 # :rocket: Olá Mundo !
-<header>
+
 Me chamo Thiago Nunes Barros, mergulhando cada vez mais fundo nesse mundo do **Desenvolvimento de software** que iniciei em 2022.
-  
-</header>
 
 <body>
-<div align="center">
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=devtnbad&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=devtnbad&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagues"/>
-  
-</div>
+  <hr>
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=devtnbad&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=devtnbad&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagues"/>
+  <hr>  
+  </div>
 
 # Hard Skils:
 
@@ -34,5 +33,5 @@ Me chamo Thiago Nunes Barros, mergulhando cada vez mais fundo nesse mundo do **D
 ## 🌐 Contatos:
 [![Linkedin](https://img.shields.io/badge/Linkedin-0000dd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nunes-barros/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tnbad@gmail.com)
-
+<hr>
 </div>
