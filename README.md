@@ -13,6 +13,10 @@ Me chamo Thiago Nunes Barros, mergulhando cada vez mais fundo nesse mundo do **D
 ![mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 ![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
 
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+![VsCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudioCode)
+
 #
 ![Principais Linguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=devtnbad&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagues)
 
