@@ -13,7 +13,8 @@ Me chamo Thiago Nunes Barros, Dei meus primeiros passos no aprendizado nesse mun
 
 # Hard Skils:
 ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
-![node](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=nodejs)
-![sql](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql)
+![node](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js)
+![sql](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=mysql)
+![sql](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=postgresql)
 
 
