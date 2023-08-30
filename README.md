@@ -34,4 +34,9 @@ Me chamo Thiago Nunes Barros, mergulhando cada vez mais fundo nesse mundo do **D
 [![Linkedin](https://img.shields.io/badge/Linkedin-0000dd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nunes-barros/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tnbad@gmail.com)
 <hr>
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devtnbad}/count.svg" /></p> 
+<br></div>
+<hr>
 </div>
