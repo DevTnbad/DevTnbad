@@ -1,4 +1,4 @@
-# :rocket: Olá Mundo ! SouThiago Nunes Barros
+# :rocket: Olá Mundo ! Sou Thiago Nunes Barros
 
 Estudando cada vez mais fundo nesse mundo do **Desenvolvimento de software**.
 
