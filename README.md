@@ -1,6 +1,6 @@
-# :rocket: Olá Mundo !
+# :rocket: Olá Mundo ! SouThiago Nunes Barros
 
-Me chamo Thiago Nunes Barros, mergulhando cada vez mais fundo nesse mundo do **Desenvolvimento de software** que iniciei em 2022.
+Estudando cada vez mais fundo nesse mundo do **Desenvolvimento de software**.
 
 <body>
   <hr>
