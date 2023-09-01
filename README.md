@@ -40,6 +40,7 @@ Atualmente, estou me aprofundando cada vez mais no **desenvolvimento de software
 ![mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 ![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
 
+![windows](https://img.shields.io/badge/windows-000?style=for-the-badge&logo=windows)
 ![linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
