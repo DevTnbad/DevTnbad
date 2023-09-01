@@ -19,7 +19,7 @@ Cada um de nós desempenha um papel importante na direção que a tecnologia tom
 
 Em resumo, minha jornada de 20 anos como Técnico de Informática e Suporte me ensinou que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa para moldar o nosso mundo e criar um futuro melhor para todos nós.
 
- Estou mergulhando cada vez mais fundo para explorar as infinitas possibilidades que **desenvoldimento de software** oferece.
+Atualmente, estou me aprofundando cada vez mais no **desenvolvimento de software** para explorar as infinitas possibilidades que ele oferece.
 
 <body>
   <hr>
