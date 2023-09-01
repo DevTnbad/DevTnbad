@@ -1,6 +1,6 @@
 # :rocket: Olá Mundo... Sou Thiago Nunes Barros !
 
-## Uma Jornada de 20 Anos
+## Uma Jornada de décadas
 
 Durante as últimas duas décadas, tive o privilégio de trabalhar como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de testemunhar em primeira mão a evolução tecnológica e seu impacto transformador. 
 
