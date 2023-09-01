@@ -2,7 +2,7 @@
 
 ## Uma Jornada de décadas
 
-Durante as últimas duas décadas, tive o privilégio de trabalhar como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de testemunhar em primeira mão a evolução tecnológica e seu impacto transformador. 
+Durante as últimas duas décadas, tive o privilégio de trabalhar como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de testemunhar a evolução tecnológica e seu impacto transformador. 
 
 - Ao longo desses anos, pude ajudar pessoas a superar desafios tecnológicos e a aproveitar ao máximo a tecnologia em suas vidas cotidianas.
 - Trabalhei com empresas para otimizar seus sistemas, aumentar a eficiência operacional e alcançar seus objetivos de negócios.
