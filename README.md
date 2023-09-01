@@ -1,6 +1,7 @@
 # :rocket: Olá Mundo... Sou Thiago Nunes Barros !
 
-Estudando cada vez mais a fundo esse mundo do **Desenvolvimento de software**.
+Trabalhei como Tec. Informatica e suporte por aproximadamente 20 anos.
+No momento estou estudando cada vez mais a fundo esse mundo do **Desenvolvimento de software**.
 
 <body>
   <hr>
