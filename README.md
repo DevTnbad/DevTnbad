@@ -2,7 +2,7 @@
 
 ## Uma Jornada de décadas
 
-Durante as últimas duas décadas, tive o privilégio de trabalhar como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de testemunhar a evolução tecnológica e seu impacto transformador. 
+Durante as últimas duas décadas,  trabalhei como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de testemunhar a evolução tecnológica e seu impacto **transformador**. 
 
 - Ao longo desses anos, pude ajudar pessoas a superar desafios tecnológicos e a aproveitar ao máximo a tecnologia em suas vidas cotidianas.
 - Trabalhei com empresas para otimizar seus sistemas, aumentar a eficiência operacional e alcançar seus objetivos de negócios.
@@ -11,7 +11,7 @@ Durante as últimas duas décadas, tive o privilégio de trabalhar como Técnico
 
 Cada um de nós desempenha um papel importante na direção que a tecnologia toma. Podemos contribuir para:
 
-- Promover a alfabetização digital, capacitando mais pessoas a aproveitar os benefícios da tecnologia.
+- Promover a alfabetização digital, ""capacitando"" mais pessoas a aproveitar os benefícios da tecnologia.
 - Ser inovadores, buscando soluções para desafios complexos.
 - Ser responsáveis, garantindo que a tecnologia seja usada de forma ética e inclusiva.
 
@@ -19,7 +19,7 @@ Cada um de nós desempenha um papel importante na direção que a tecnologia tom
 
 Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa para moldar o nosso mundo e criar um futuro melhor para todos nós.
 
-Atualmente, estou me aprofundando cada vez mais no **desenvolvimento de software** para explorar as infinitas possibilidades que ele oferece.
+Atualmente, estou me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que ele oferece.
 
 <body>
   <hr>
