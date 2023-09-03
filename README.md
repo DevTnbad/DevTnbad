@@ -56,8 +56,7 @@ Atualmente, estou me aprofundando cada vez mais no **Desenvolvimento de software
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tnbad@gmail.com)
 <hr>
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
+<p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devtnbad}/count.svg" /></p> 
-<br></div>
 <hr>
 </div>
