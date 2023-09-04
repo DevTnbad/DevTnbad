@@ -7,14 +7,6 @@ Durante as últimas duas décadas,  trabalhei como Técnico de Informática e Su
 - Ao longo desses anos, pude ajudar pessoas a superar desafios tecnológicos e a aproveitar ao máximo a tecnologia em suas vidas cotidianas.
 - Trabalhei com empresas para otimizar seus sistemas, aumentar a eficiência operacional e alcançar seus objetivos de negócios.
 
-## Nosso Papel na Transformação
-
-Cada um de nós desempenha um papel importante na direção que a tecnologia toma. Podemos contribuir para:
-
-- Promover a alfabetização digital, **capacitando** mais pessoas a aproveitar os benefícios da tecnologia.
-- Ser inovadores, buscando soluções para desafios complexos.
-- Ser responsáveis, garantindo que a tecnologia seja usada de forma ética e inclusiva permitindo o **desenvolvimento social**.
-
 ## Mergulhando no Desenvolvimento
 
 Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa capaz de **transformar a vida de pessos, empresas e da sociedade, moldar o nosso mundo e criar um futuro melhor para todos nós**.
