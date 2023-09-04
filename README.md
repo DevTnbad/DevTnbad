@@ -17,7 +17,7 @@ Cada um de nós desempenha um papel importante na direção que a tecnologia tom
 
 ## Mergulhando no Desenvolvimento
 
-Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa para moldar o nosso mundo e criar um futuro melhor para todos nós.
+Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa capaz de **transformar a vida de pessos empresas e da sociedade, moldar o nosso mundo e criar um futuro melhor para todos nós**.
 
 Atualmente, estou estudando e me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que ele oferece.
 
