@@ -19,7 +19,7 @@ Cada um de nós desempenha um papel importante na direção que a tecnologia tom
 
 Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa para moldar o nosso mundo e criar um futuro melhor para todos nós.
 
-Atualmente, estou me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que ele oferece.
+Atualmente, estou estudando e me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que ele oferece.
 
 <body>
   <hr>
