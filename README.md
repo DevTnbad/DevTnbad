@@ -2,14 +2,14 @@
 
 ## Uma Jornada de décadas
 
-Durante as últimas duas décadas,  trabalhei como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de testemunhar a evolução tecnológica e seu impacto **transformador**. 
+Durante as últimas duas décadas,  trabalhei como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de acompanhar a evolução tecnológica e seu impacto **transformador**. 
 
 - Ao longo desses anos, pude ajudar pessoas a superar desafios tecnológicos e a aproveitar ao máximo a tecnologia em suas vidas cotidianas.
 - Trabalhei com empresas para otimizar seus sistemas, aumentar a eficiência operacional e alcançar seus objetivos de negócios.
 
 ## Mergulhando no Desenvolvimento
 
-Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa capaz de **transformar a vida de pessos, empresas e da sociedade, moldar o nosso mundo e criar um futuro melhor para todos nós**.
+Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa capaz de **transformar a vida de pessoas, empresas e da sociedade, moldar o nosso mundo e criar um futuro melhor para todos nós**.
 
 Atualmente, estou estudando e me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que essa ferramenta de transformação oferece. 
 
