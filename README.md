@@ -25,6 +25,7 @@ Atualmente, estou estudando e me aprofundando cada vez mais no **Desenvolvimento
 
 ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 ![node](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=springboot)
 ![html](https://img.shields.io/badge/html-000?style=for-the-badge&logo=html5)
