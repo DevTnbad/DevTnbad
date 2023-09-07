@@ -11,7 +11,7 @@ Durante as últimas duas décadas,  trabalhei como Técnico de Informática e Su
 
 Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa capaz de **transformar a vida de pessoas, empresas e da sociedade, moldar o nosso mundo e criar um futuro melhor para todos nós**.
 
-Atualmente estou estudando e me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que essa ferramenta de transformação oferece. :rocket:
+Atualmente estou em transição de carreira, estudando e me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que essa ferramenta de transformação oferece. :rocket:
 
 <body>
   <hr>
