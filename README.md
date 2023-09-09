@@ -4,8 +4,8 @@
 
 Durante as últimas duas décadas,  trabalhei como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de acompanhar a evolução tecnológica e seu impacto **transformador**. 
 
-- Ao longo desses anos, pude ajudar pessoas a superar desafios tecnológicos e a aproveitar ao máximo a tecnologia em suas vidas cotidianas.
-- Trabalhei com empresas para otimizar seus sistemas, aumentar a eficiência operacional e alcançar seus objetivos de negócios.
+- ✔️ Ao longo desses anos, pude ajudar pessoas a superar desafios tecnológicos e a aproveitar ao máximo a tecnologia em suas vidas cotidianas.
+- ✔️ Trabalhei com empresas para otimizar seus sistemas, aumentar a eficiência operacional e alcançar seus objetivos de negócios.
 
 ## Mergulhando no Desenvolvimento
 
@@ -21,7 +21,7 @@ Atualmente estou em transição de carreira, estudando e me aprofundando cada ve
   <hr>  
   </div>
 
-# Hard Skils:
+##  Hard Skils: 
 
 ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 ![node](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js)
@@ -49,7 +49,7 @@ Atualmente estou em transição de carreira, estudando e me aprofundando cada ve
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tnbad@gmail.com)
 <hr>
 <div align="center">
-<p align="centre"><b>Visitantes</b></p>  
+<p align="centre"><b>🕵️ Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devtnbad}/count.svg" /></p> 
 <hr>
 </div>
