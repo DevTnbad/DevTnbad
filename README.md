@@ -21,7 +21,7 @@ Atualmente estou em transição de carreira, estudando e me aprofundando cada ve
   <hr>  
   </div>
 
-##  Hard Skils: 
+## 🏆 Hard Skils: 
 
 ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 ![node](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js)
