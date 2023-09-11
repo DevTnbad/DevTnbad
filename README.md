@@ -23,21 +23,21 @@ Atualmente estou em transição de carreira, estudando e me aprofundando cada ve
 
 ## 🏆 Hard Skils: 
 
-![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
-![node](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
-![java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=springboot)
-![html](https://img.shields.io/badge/html-000?style=for-the-badge&logo=html5)
-![css](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css3)
-![mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
-![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
+![javascript](https://img.shields.io/badge/javascript-4F4F4F?style=for-the-badge&logo=javascript)
+![node](https://img.shields.io/badge/nodejs-4f4f4f?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express%20js-4F4F4F?style=for-the-badge&logo=express&logoColor=white)
+![python](https://img.shields.io/badge/python-4f4f4f?style=for-the-badge&logo=python)
+![java](https://img.shields.io/badge/java-4f4f4f?style=for-the-badge&logo=springboot)
+![html](https://img.shields.io/badge/html-4f4f4f?style=for-the-badge&logo=html5)
+![css](https://img.shields.io/badge/css-4f4f4f?style=for-the-badge&logo=css3)
+![mysql](https://img.shields.io/badge/mysql-4f4f4f?style=for-the-badge&logo=mysql)
+![postgresql](https://img.shields.io/badge/postgresql-4f4f4f?style=for-the-badge&logo=postgresql)
 
-![windows](https://img.shields.io/badge/windows-000?style=for-the-badge&logo=windows)
-![linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
-![VsCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudioCode)
+![windows](https://img.shields.io/badge/windows-4f4f4f?style=for-the-badge&logo=windows)
+![linux](https://img.shields.io/badge/linux-4f4f4f?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/git-4f4f4f?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/github-4f4f4f?style=for-the-badge&logo=github)
+![VsCode](https://img.shields.io/badge/vscode-4f4f4f?style=for-the-badge&logo=visualstudioCode)
 
 
 </body>
