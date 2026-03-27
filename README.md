@@ -1,4 +1,4 @@
-# :rocket: Olá Mundo... Sou Thiago Nunes Barros ! 
+# :rocket: Olá Mundo... Sou Thiago N Barros ! 
 
 ## 📆 Uma Jornada de décadas
 
