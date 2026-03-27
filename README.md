@@ -15,9 +15,7 @@ Atualmente estou em transição de carreira, estudando e me aprofundando cada ve
 
 <body>
   <hr>
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devtnbad&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtnbad&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagues"/>
+
   <hr>  
   </div>
 
