@@ -1,17 +1,8 @@
-# :rocket: Olá Mundo... Sou Thiago N Barros ! 
+# 👋 Olá, eu sou o Thiago Nunes Barros!
 
-## 📆 Uma Jornada de décadas
+**Desenvolvedor Back-end em transição de carreira** | Rio de Janeiro, RJ
 
-Durante as últimas duas décadas,  trabalhei como Técnico de Informática e Suporte. Essa jornada me proporcionou a oportunidade de acompanhar a evolução tecnológica e seu impacto **transformador**. 
-
-- ✔️ Ao longo desses anos, pude ajudar pessoas a superar desafios tecnológicos e a aproveitar ao máximo a tecnologia em suas vidas cotidianas.
-- ✔️ Trabalhei com empresas para otimizar seus sistemas, aumentar a eficiência operacional e alcançar seus objetivos de negócios.
-
-## 💻 Mergulhando no Desenvolvimento
-
-Aprendi que a tecnologia é mais do que apenas máquinas e códigos. É uma ferramenta poderosa capaz de **transformar a vida de pessoas, empresas e da sociedade, moldar o nosso mundo e criar um futuro melhor para todos nós**.
-
-Atualmente estou em transição de carreira, estudando e me aprofundando cada vez mais no **Desenvolvimento de software** para explorar as infinitas possibilidades que essa ferramenta de transformação oferece. :rocket:
+Após mais de 20 anos atuando como Técnico de Informática e Suporte, decidi mergulhar de cabeça no mundo do desenvolvimento de software. Hoje meu foco principal é construir APIs robustas, escaláveis e bem estruturadas.
 
 <body>
   <hr>
