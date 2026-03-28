@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Thiago Nunes Barros!
+# 👋 Olá, eu sou o Thiago N Barros!
 
 **Desenvolvedor Back-end em transição de carreira** | Rio de Janeiro, RJ
 
